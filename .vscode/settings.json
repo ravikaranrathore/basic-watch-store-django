@@ -1,0 +1,7 @@
+{
+    "C_Cpp.autocomplete": "disabled",
+    "C_Cpp.codeFolding": "enabled",
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true
+}
